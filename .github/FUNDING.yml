@@ -1,0 +1,37 @@
+# These are supported funding model platforms
+
+# It can be up to 4 GitHub
+# Sponsors-enabled usernames
+# e.g., [user1, user2]
+github:
+  tallero
+# A single Patreon username
+patreon:
+  tallero
+# A single Open Collective username
+open_collective:
+# A single Ko-fi username
+ko_fi:
+# A single Tidelift
+# platform-name/package-name e.g., npm/babel
+tidelift:
+# Replace with a single Community Bridge
+# project-name e.g., cloud-foundry
+community_bridge:
+# A single Liberapay username
+liberapay:
+# A single IssueHunt username
+issuehunt:
+# A single LFX Crowdfunding
+# project-name e.g., cloud-foundry
+lfx_crowdfunding:
+# A single Polar username
+polar:
+# A single Buy Me a Coffee username
+buy_me_a_coffee:
+# A single thanks.dev username
+thanks_dev:
+# 4 custom sponsorship HTTP URLs e.g., ['link1', 'link2']
+custom:
+  [ "http://www.humaninstrumentalityproject.org",
+    "https://github.com/themartiancompany" ]
