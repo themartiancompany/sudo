@@ -32,6 +32,6 @@ buy_me_a_coffee:
 # A single thanks.dev username
 thanks_dev:
 # 4 custom sponsorship HTTP URLs e.g., ['link1', 'link2']
-custom:
-  [ "http://www.humaninstrumentalityproject.org",
-    "https://github.com/themartiancompany" ]
+# custom:
+#   [ "http://www.humaninstrumentalityproject.org",
+#     "https://github.com/themartiancompany" ]
